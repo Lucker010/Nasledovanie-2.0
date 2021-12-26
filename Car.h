@@ -1,6 +1,7 @@
 #pragma once
 #include "Vehicle.h"
 //123
+// 123123
 //класс машина
 class Car: public Vehicle
 {
